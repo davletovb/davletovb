@@ -10,11 +10,11 @@
 
 <p align='center'>
  
-  <a href="hi@behruz.me">
+  <a href="mailto:hi@behruz.me">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp
   
-  <a href="[https://www.linkedin.com/in/avi-kumar-talaviya-739153147/](https://www.linkedin.com/in/behruz-davletov/)">
+  <a href="https://www.linkedin.com/in/behruz-davletov/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp
   
