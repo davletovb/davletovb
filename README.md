@@ -2,7 +2,7 @@
 
 <p align="center">  Hi there! 👋 </p>
 <p align='center'>
-  My name is <b>Behruz/b>.<br/>
+  My name is <b>Behruz</b>.<br/>
   I am practicing <b>Data Scientist.</b><br>
   Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>Sklearn</b>, <b>Pandas</b>, <b>Matplotlib</b>, <b>Pytorch</b>,and <b>Keras</b>
 </p>
