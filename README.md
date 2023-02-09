@@ -1,38 +1,66 @@
-Hi 👋 My name is Behruz
-=======================
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-Data Scientist
-------------------------------
+<p align="center">  Hi there! 👋 </p>
+<p align='center'>
+  My name is <b>Behruz/b>.<br/>
+  I am practicing <b>Data Scientist.</b><br>
+  Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>Sklearn</b>, <b>Pandas</b>, <b>Matplotlib</b>, <b>Pytorch</b>,and <b>Keras</b>
+</p>
+<p>📫 How to reach me:innocent:</p>
 
-I have been learning
-
-* 🌍  I'm based in Ontario, Canada
-* 🖥️  See my portfolio at [behruz.me](http://behruz.me)
-* ✉️  You can contact me at [hi@behruz.me](mailto:hi@behruz.me)
-* 🧠  I'm learning NLP
-
-### Skills
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+<p align='center'>
+ 
+  <a href="hi@behruz.me">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>&nbsp
+  
+  <a href="[https://www.linkedin.com/in/avi-kumar-talaviya-739153147/](https://www.linkedin.com/in/behruz-davletov/)">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>&nbsp
+  
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  
 </p>
 
-### Socials
+[![Behruz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davletovb&theme=dark)](https://git.io/streak-stats)
 
-<p align="left"> <a href="https://www.github.com/davletovb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/behruz-davletov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/dovletogly_b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
+[![Behruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=davletovb&show_icons=true&theme=radical)](https://github.com/davletovb/github-readme-stats)
 
-### Badges
 
-<b>My GitHub Stats</b>
+My Interests :heart_eyes:<br>
 
-<a href="http://www.github.com/davletovb"><img src="https://github-readme-stats.vercel.app/api?username=davletovb&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="davletovb's GitHub stats" /></a>
+-   Python
+-   Machine learning
+-   Deep learning
+-   Data science
+-   Data analysis
 
-<a href="http://www.github.com/davletovb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=davletovb&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Languages and software that I know and/or use:
 
-<a href="http://www.github.com/davletovb"><img src="https://activity-graph.herokuapp.com/graph?username=davletovb&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<img align = 'left' alt = 'Python' width='36px' src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/>
+
+<img align="left" alt="Git" width="32px" src= "https://user-images.githubusercontent.com/55111154/100549956-74280980-329c-11eb-8b47-62b3ea97e5ca.png"/>
+
+<img align="left" alt="VSCode" width="36px" src= "https://user-images.githubusercontent.com/55111154/100549504-41304680-3299-11eb-811c-570aae79deba.png"/>
+
+<img align="left" alt="Pandas" width="36px" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7YWmxNmbuzSB7RyPFlM99xnJMAre6eEj1OhL9EYo&s"/>
+
+<img align="left" alt="NumPy" width="36px" src= "https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/>
+
+<img align="left" alt="Keras" width="36px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png"/>
+
+<img align="left" alt="SQL" width="36px" src= "https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"/>
+
+<img align="left" alt="Sklearn" width="36px" src= "https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png"/>
+
+<img align="left" alt="Streamlit" width="36px" src= "https://user-images.githubusercontent.com/88608935/187243256-b5b07944-acca-44e4-b1f5-e78e1d0d9376.png"/>
+
+
+<br/>
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davletovb&theme=radical&layout=compact)](https://github.com/davletovb/github-readme-stats)
+
