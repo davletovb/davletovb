@@ -4,7 +4,7 @@
 <p align='center'>
   My name is <b>Behruz</b>.<br/>
   I am practicing <b>Data Scientist.</b><br>
-  Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>Sklearn</b>, <b>Pandas</b>, <b>Matplotlib</b>, <b>Pytorch</b>,and <b>Keras</b>
+  Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>Langchain</b>, <b>Streamlit</b>, <b>Fine tuning models</b>, and <b>Pytorch</b>
 </p>
 <!--
 <p>📫 How to reach me:innocent:</p>
@@ -28,14 +28,12 @@
 
 [![Behruz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davletovb&theme=dark)](https://git.io/streak-stats)
 
-[![Behruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=davletovb&show_icons=true&theme=radical)](https://github.com/davletovb/github-readme-stats)
-
 
 My Interests :heart_eyes:<br>
 
 -   Python
 -   Machine learning
--   Deep learning
+-   NLP
 -   Data science
 -   Data analysis
 
@@ -50,8 +48,6 @@ My Interests :heart_eyes:<br>
 <img align="left" alt="Pandas" width="36px" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7YWmxNmbuzSB7RyPFlM99xnJMAre6eEj1OhL9EYo&s"/>
 
 <img align="left" alt="NumPy" width="36px" src= "https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/>
-
-<img align="left" alt="Keras" width="36px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png"/>
 
 <img align="left" alt="SQL" width="36px" src= "https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"/>
 
