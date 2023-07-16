@@ -4,7 +4,7 @@
 <p align='center'>
   My name is <b>Behruz</b>.<br/>
   I am practicing <b>Data Scientist.</b><br>
-  Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>FastAPI</b>, <b>Streamlit</b>, <b>Fine tuning models</b>, and <b>Pytorch</b>
+  Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>FastAPI</b>, <b>Streamlit</b>, and <b>Generative AI</b>
 </p>
 <!--
 <p>📫 How to reach me:innocent:</p>
@@ -34,8 +34,8 @@ My Interests :heart_eyes:<br>
 -   Python
 -   Machine learning
 -   NLP
--   Data science
--   Data analysis
+-   Data Science
+-   Data Analysis
 
 ## Languages and software that I know and/or use:
 
