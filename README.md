@@ -1,11 +1,7 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+Hi there! 👋 My name is Behruz and I'm an aspiring Data Scientist and Machine Learning Engineer. I have a background in Sociology and am passionate about blending data science and social understanding to solve real-world problems.  
 
-<p align="center">  Hi there! 👋 </p>
-<p align='center'>
-  My name is <b>Behruz</b>.<br/>
-  I am practicing <b>Data Scientist.</b><br>
-  Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>FastAPI</b>, <b>Streamlit</b>, and <b>Generative AI</b>
-</p>
+I'm actively learning and working with Python, SQL, FastAPI, Streamlit, and Generative AI tools. 
+
 <!--
 <p>📫 How to reach me:innocent:</p>
 
@@ -32,10 +28,10 @@
 My Interests :heart_eyes:<br>
 
 -   Python
--   Machine learning
--   NLP
--   Data Science
--   Data Analysis
+-   Machine Learning models and algorithms
+-   Natural Language Processing (NLP)
+-   Data analysis, visualization, and storytelling
+-   I'm a lifelong learner who loves absorbing interdisciplinary knowledge across fields.
 
 ## Languages and software that I know and/or use:
 
