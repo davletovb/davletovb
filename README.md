@@ -20,9 +20,10 @@ I'm actively learning and working with Python, SQL, FastAPI, Streamlit, and Gene
   </a>
   
 </p>
--->
 
 [![Behruz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davletovb&theme=dark)](https://git.io/streak-stats)
+-->
+
 
 
 My Interests :heart_eyes:<br>
