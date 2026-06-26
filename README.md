@@ -1,6 +1,5 @@
 <!-- ════════════════════════════════════════════════════════════════
-     PROFILE README  ·  replace every  davletovb  with your handle
-     (find-and-replace the whole file — it appears in ~6 places)
+     PROFILE README  ·  github.com/davletovb
 ═════════════════════════════════════════════════════════════════ -->
 
 <!-- ░░░ ANIMATED WAVE HEADER ░░░ -->
@@ -33,7 +32,7 @@
 <br/>
 
 <!-- ░░░ WHAT I'M UP TO ░░░ -->
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td valign="top" width="50%">
 
@@ -87,7 +86,11 @@
 
 <!-- ░░░ CONTRIBUTION SNAKE (needs the GitHub Action — see notes) ░░░ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/davletovb/davletovb/output/snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davletovb/davletovb/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davletovb/davletovb/output/snake-light.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/davletovb/davletovb/output/snake-light.svg" />
+  </picture>
 </p>
 
 <!-- ░░░ TROPHIES ░░░ -->
