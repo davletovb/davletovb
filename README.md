@@ -72,15 +72,10 @@
 <br/>
 
 <!-- ░░░ GITHUB STATS (live, themed) ░░░ -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davletovb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=c9a227&icon_color=1a7a5a&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davletovb&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=c9a227&text_color=c9d1d9" />
-</p>
+
 
 <!-- ░░░ STREAK ░░░ -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=davletovb&hide_border=true&background=0d1117&ring=c9a227&fire=1a7a5a&currStreakLabel=c9a227&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-</p>
+
 
 <br/>
 
@@ -94,9 +89,7 @@
 </p>
 
 <!-- ░░░ TROPHIES ░░░ -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davletovb&theme=onestar&no-frame=true&column=7&margin-w=8&title_color=c9a227" />
-</p>
+
 
 <br/>
 
